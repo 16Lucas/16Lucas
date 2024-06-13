@@ -37,7 +37,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" href="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="340px" height="520px"/>
+<img align="right" alt="GIF" <a href="https://giphy.com/embed/bGgsc5mWoryfgKBx1u">GIF COMPUTADOR</a> width="340px" height="520px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
