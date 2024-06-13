@@ -45,7 +45,7 @@
 <div align="justify">
 <p> 
 - :mortar_board: &nbsp; Sou <code>estudante</code> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> do curso de Análise e Desenvolvimento de Sistemas.<br />
-- :necktie: &nbsp; Na <a href="https://www.lyon.com.br/" target="_blank">Lyon Informática</a>, atuo como <code>Analista de Suporte técnico III</code>, prestando atendimento e auxiliando os clientes da melhor forma<br />
+- :necktie: &nbsp; Na <a href="https://www.lyon.com.br/" target="_blank">Lyon Informática</a>, atuo como <code>Analista de Suporte técnico III</code>, <br />prestando atendimento e auxiliando os clientes da melhor forma<br />
 - :atom: &nbsp; Sou entusiasta em SQL<br />
 - :soccer: &nbsp; Sou Cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">Cruzeiro Esporte Clube</a>. :rooster:<br />
 - :basketball: &nbsp; Meus hobbies são jogos mobile's, <a href="https://ge.globo.com/futebol/times/cruzeiro/" target="_blank">noticias esportivas</a>, livros e academia<br />
