@@ -30,7 +30,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Lucas Oliveira</code>, tenho 33 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Lucas Oliveira</code>, tenho 23 anos, m profissional apaixonado e dedicado, buscando constantemente oportunidades de crescimento e realização no campo tecnológico. Tenho uma mentalidade voltada para o trabalho em equipe, foco, produtividade e motivação. Minhas habilidades técnicas e minha capacidade de comunicação me permitem enfrentar desafios de forma eficaz e encontrar soluções inovadoras para problemas complexos. Sou comprometido com a excelência no atendimento ao cliente e em oferecer suporte técnico de qualidade, sempre buscando superar as expectativas e garantir a satisfação do cliente. Com uma sólida formação acadêmica e experiência prática, estou preparado para enfrentar os desafios do mundo profissional e contribuir positivamente para o sucesso da equipe e da organização.<a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
 </div>
 
 -----
