@@ -81,7 +81,7 @@
  
 <summary>:headphones: :guitar: :drum:</summary>
 
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
+[Charlie Brown Jr- O Preço](https://www.youtube.com/watch?v=2CRuNFL1mUo&list=RD2CRuNFL1mUo&start_radio=1)
 
 </div>
 
