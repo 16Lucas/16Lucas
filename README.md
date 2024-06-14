@@ -73,7 +73,9 @@
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/16Lucas/16Lucas/blob/main/img/spotify.gif"/> Lucas Oliveira Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/card?user_id=12160214089" alt="Data Card for Spotify">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=12160214089">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=12160214089" alt="Data Card for Spotify">
+</a>
 </details>
 </div>
 <div>
