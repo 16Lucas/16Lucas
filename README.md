@@ -80,7 +80,7 @@
 
 <div>
  
-<summary>:headphones: :guitar: :drum:</summary>
+<summary>:headphones: :guitar: :drum: Minha música preferida é:</summary>
 
 [Charlie Brown Jr- O Preço](https://youtu.be/2CRuNFL1mUo?si=pM2JouCdn1MoODSB)
 
