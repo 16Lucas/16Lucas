@@ -45,7 +45,7 @@
 <div align="justify">
 <p> 
 - :mortar_board: &nbsp; Sou <code>estudante</code> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> do curso de Análise e Desenvolvimento de Sistemas.<br />
-- :necktie: &nbsp; Na <a href="https://www.lyon.com.br/" target="_blank">Lyon Informática</a>, atuo como <code>Analista de Suporte técnico III</code>, <br />prestando atendimento e auxiliando os clientes da melhor forma<br />
+- :necktie: &nbsp; Na <a href="https://www.lyon.com.br/" target="_blank">Lyon Informática</a>, atuo como <code>Analista de Suporte técnico III</code>, <br />prestando atendimento e auxiliando os clientes da melhor forma.<br />
 - :atom: &nbsp; Sou entusiasta em SQL<br />
 - :soccer: &nbsp; Sou Cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">Cruzeiro Esporte Clube</a>. :rooster:<br />
 - :basketball: &nbsp; Meus hobbies são jogos mobile's, <a href="https://ge.globo.com/futebol/times/cruzeiro/" target="_blank">noticias esportivas</a>, livros e academia<br />
@@ -58,7 +58,7 @@
 
 -----
 
-<img height="20" alt="GIF" src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489/"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>Estatísticas do GitHub:
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=16Lucas&theme=github_dark"/>
