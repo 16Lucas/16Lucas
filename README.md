@@ -81,7 +81,7 @@
  
 <summary>:headphones: :guitar: :drum:</summary>
 
-[Charlie Brown Jr- O Preço](https://www.youtube.com/watch?v=2CRuNFL1mUo&list=RD2CRuNFL1mUo&start_radio=1)
+[Charlie Brown Jr- O Preço](https://youtu.be/2CRuNFL1mUo?si=pM2JouCdn1MoODSB)
 
 </div>
 
