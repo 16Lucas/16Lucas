@@ -75,9 +75,10 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=12160214089" alt="Data Card for Spotify">
 </a>
 </div>
-<div>
 
 -----
+
+<div>
  
 <summary>:headphones: :guitar: :drum:</summary>
 
