@@ -47,7 +47,7 @@
 - :mortar_board: &nbsp; Sou <code>estudante</code> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> do curso de Análise e Desenvolvimento de Sistemas.<br />
 - :necktie: &nbsp; Na <a href="https://www.lyon.com.br/" target="_blank">Lyon Informática</a>, atuo como <code>Analista de Suporte técnico III</code>, <br />prestando atendimento e auxiliando os clientes da melhor forma.<br />
 - :atom: &nbsp; Sou entusiasta em SQL<br />
-- :soccer: &nbsp; Sou Cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">Cruzeiro Esporte Clube</a>. :rooster:<br />
+- :soccer: &nbsp; Sou Cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">Cruzeiro Esporte Clube</a>. :fox:<br />
 - :basketball: &nbsp; Meus hobbies são jogos mobile's, <a href="https://ge.globo.com/futebol/times/cruzeiro/" target="_blank">noticias esportivas</a>, livros e academia<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:lucasazevedo1620@gmail.com" target="_blank">e-mail</a> pessoal.<br />
