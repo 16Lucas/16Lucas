@@ -137,7 +137,7 @@
 <div align="center">
 <table>
 <td>
-<a href="https://github.com/Lucas16" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/16Lucas/16Lucas/blob/main/img/githubfooter1.png" alt="github-footer1"/></a>
+<a href="https://github.com/16Lucas" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/16Lucas/16Lucas/blob/main/img/githubfooter1.png" alt="github-footer1"/></a>
 </td>
 </tr>
 <tr>
@@ -155,10 +155,10 @@
 </tr> 
 <tr>
 <td>
-<a href="https://github.com/Lucas16" target="_blank"></a>
+<a href="https://github.com/16Lucas" target="_blank"></a>
 </td>
 <td>
-| Créditos: <a href="https://github.com/Lucas16" target="_blank">© 2024 Lucas Oliveira</a><br />
+| Créditos: <a href="https://github.com/16Lucas" target="_blank">© 2024 Lucas Oliveira</a><br />
 | Última atualização: 18/06/2024
 </td>
 </tr>
