@@ -40,7 +40,7 @@
 <img align="right" alt="GIF" src="https://github.com/16Lucas/16Lucas/blob/main/img/dev.gif" width="240" height="240px"/>
 </div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+:cyclone: Meus interesses pessoais:<br />
 
 <div align="justify">
 <p> 
@@ -48,7 +48,7 @@
 - :necktie: &nbsp; Na <a href="https://www.lyon.com.br/" target="_blank">Lyon Informática</a>, atuo como <code>Analista de Suporte técnico III</code>, <br />prestando atendimento e auxiliando os clientes da melhor forma.<br />
 - :computer: &nbsp; Sou entusiasta em SQL e um aventureiro em PYTHON.:brain::snake: <br />
 - :soccer: &nbsp; Sou Cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">Cruzeiro Esporte Clube</a>. :fox_face: :blue_heart: <br />
-- :basketball: &nbsp; Meus hobbies são jogos mobile's, <a href="https://ge.globo.com/futebol/times/cruzeiro/" target="_blank">noticias esportivas</a>, livros e academia<br />
+- :basketball: &nbsp; Meus hobbies são jogos mobile's, <a href="https://ge.globo.com/futebol/times/cruzeiro/" target="_blank">noticias esportivas</a>, livros e academia.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:lucasazevedo1620@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/lucasazevedo1620/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
