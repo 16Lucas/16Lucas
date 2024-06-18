@@ -94,7 +94,7 @@
  <td align="center" colspan="1">Pix</td>
 </tr> 
 <tr>
-<td><img src="https://github.com/Lucas16/Lucas16/blob/main/img/qrcode-pix.png?raw=true" width="70px" height="70px"/></td>
+<td><img src="https://github.com/16Lucas/16Lucas/blob/main/img/Pix.jpg" width="70px" height="70px"/></td>
 </tr>
 </table>
 <a href="https://www.linkedin.com/in/lucas0liveira/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -112,9 +112,9 @@
 0000-0001-7538-5927" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 <a href="https://www.twitch.tv/" target="_blank"><img alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/" target="_blank"><img alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a href="https://join.skype.com/invite/dcKhOAFaJ5cz" target="_blank"><img alt="skype" src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/></a>
+<a href="https://join.skype.com/invite/" target="_blank"><img alt="skype" src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/></a>
 <br />
-<a href="https://stackoverflow.com/users/22206141/aramuni" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/22206141/" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a href="https://gitlab.com/" target="_blank"><img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <a href="https://github.com/" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
