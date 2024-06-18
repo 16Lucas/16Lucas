@@ -80,10 +80,9 @@
 
 <div>
 <details>
+<summary>:headphones: :guitar: :drum:</summary>
 
-<summary>:headphones: :guitar: :drum: Minha música preferida é:</summary><br />
-
- [Charlie Brown Jr- O Preço](https://youtu.be/2CRuNFL1mUo?si=pM2JouCdn1MoODSB)
+[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
 
 </details>
 </div>
