@@ -137,7 +137,7 @@
 <div align="center">
 <table>
 <td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/16Lucas/16Lucas/blob/main/img/githubfooter1.png" alt="github-footer1"/></a>
+<a href="https://github.com/Lucas16" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/16Lucas/16Lucas/blob/main/img/githubfooter1.png" alt="github-footer1"/></a>
 </td>
 </tr>
 <tr>
@@ -170,9 +170,6 @@
 
 -----
 
-<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gray&section=footer"/>
+<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=blue&section=footer"/>
 
 <!---
-<div>
-<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true"/>
-</div>
