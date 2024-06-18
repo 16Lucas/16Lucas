@@ -40,7 +40,7 @@
 <img align="right" alt="GIF" src="https://github.com/16Lucas/16Lucas/blob/main/img/dev.gif" width="240" height="240px"/>
 </div>
 
-:cyclone: Meus interesses pessoais:<br />
+<summary>:cyclone: Meus interesses pessoais:</summary><br />
 
 <div align="justify">
 <p> 
@@ -58,7 +58,7 @@
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/16Lucas/16Lucas/blob/main/img/graphic.gif"/>Estatísticas do GitHub:
+<summary><img height="20" alt="GIF" src="https://github.com/16Lucas/16Lucas/blob/main/img/graphic.gif"/>Estatísticas do GitHub:</summary>
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=16Lucas&theme=github_dark"/>
