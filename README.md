@@ -16,9 +16,9 @@
 </td>
 <td><a href="https://wa.me/5531999071979" target="_blank"><img src="https://github.com/16Lucas/16Lucas/blob/main/img/wpp2.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://github.com/16Lucas/16Lucas/blob/main/img/insta2.png" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/pintad0/" target="_blank"><img src="https://github.com/16Lucas/16Lucas/blob/main/img/insta2.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://github.com/16Lucas/16Lucas/blob/main/img/linkedin2.png" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/lucas0liveira/" target="_blank"><img src="https://github.com/16Lucas/16Lucas/blob/main/img/linkedin2.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://calendly.com/lucasazevedo1620" target="_blank"><img src="https://github.com/16Lucas/16Lucas/blob/main/img/calendar2.png" width="50px" height="50px"/></a>
 </td>
