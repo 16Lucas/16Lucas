@@ -155,7 +155,7 @@
 </tr> 
 <tr>
 <td>
-<a href="https://github.com/Lucas16" target="_blank"><img src="https://github.com/16Lucas/16Lucas/blob/main/img/github.png" largura="25px" altura="25px"/></a>
+<a href="https://github.com/Lucas16" target="_blank"><img src="https://github.com/16Lucas/16Lucas/blob/main/img/github.png" largura="1px" altura="1px"/></a>
 </td>
 <td>
 | Créditos: <a href="https://github.com/Lucas16" target="_blank">© 2024 Lucas Oliveira</a><br />
