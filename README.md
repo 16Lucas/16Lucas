@@ -86,8 +86,6 @@
   <video src="https://github.com/16Lucas/16Lucas/assets/94024150/aaa4fa05-c9c7-456d-878f-d20375ebfdf8" controls width="640" height="360"></video>
 </div>
 
-
-
 -----
 
 <div>
@@ -95,9 +93,6 @@
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
-<tr>
-<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pythonmg.png?raw=true" width="70px" height="70px"/></a></td>
-</tr>
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
