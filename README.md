@@ -133,9 +133,8 @@
 ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚══════╝╚═╝  ╚═══╝  ╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
                                                                                                                                                                                        
 ```                                        
-
 </div>
-<div>
+<div align="center">
 <table>
 <td>
 <a href="https://github.com/joaopauloaramuni" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/16Lucas/16Lucas/blob/main/img/githubfooter1.png" alt="github-footer1"/></a>
