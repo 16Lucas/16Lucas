@@ -79,12 +79,10 @@
 -----
 
 <div>
-<details>
 <summary>:headphones: :guitar: :drum: Minha música preferida é:</summary><br/>
 
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
+https://github.com/16Lucas/16Lucas/assets/94024150/9b78e6a9-b12f-4a2c-9aec-06b9c3eb22bd
 
-</details>
 </div>
 
 -----
