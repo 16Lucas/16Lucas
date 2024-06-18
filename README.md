@@ -81,8 +81,8 @@
 <div>
 <summary>:headphones: :guitar: :drum: Minha música preferida é:</summary><br/>
 
-https://github.com/16Lucas/16Lucas/assets/94024150/9b78e6a9-b12f-4a2c-9aec-06b9c3eb22bd
-
+ https://github.com/16Lucas/16Lucas/assets/94024150/689054e6-81d9-48af-bd01-2e2f040933b3
+ 
 </div>
 
 -----
