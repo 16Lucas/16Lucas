@@ -79,7 +79,6 @@
 -----
 
 <div>
-<div>
 <detalhes>
 
 <summary>:headphones: :guitar: :drum: Minha música preferida é:</summary><br />
@@ -87,7 +86,6 @@
  [Charlie Brown Jr- O Preço](https://youtu.be/2CRuNFL1mUo?si=pM2JouCdn1MoODSB)
 
 </detalhes>
-</div>
 </div>
 
 -----
