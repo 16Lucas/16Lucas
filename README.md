@@ -103,6 +103,9 @@
 <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=16Lucas&theme=github_dark"/>
 </td>
 </tr>
+ <td>
+<img alt="GitHub Details" width="420px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/writing.gif"/>
+</td>
 <tr>
  <td align="center" colspan="3"></td>
 </tr> 
