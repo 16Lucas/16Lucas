@@ -1,9 +1,3 @@
-<div>
-<img align="center" alt="Header" src="https://github.com/16Lucas/16Lucas/blob/main/img/head3.jpg"/>
-</div>
-
------
-
 <div align="center">
 <table>
 <tr>
