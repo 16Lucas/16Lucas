@@ -5,7 +5,7 @@
 -----
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/16Lucas/16Lucas/blob/main/img/hacker.gif" width="240" height="240px"/>
+<img align="center" alt="GIF" src="https://github.com/16Lucas/16Lucas/blob/main/img/hacker.gif" width="240" height="240px"/>
 </div>
 
 <div align="center">
