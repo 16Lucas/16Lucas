@@ -204,7 +204,7 @@
 </td>
 <td>
 | Créditos: <a href="https://github.com/16Lucas" target="_blank">© 2024 Lucas Oliveira</a><br />
-| Última atualização: 18/06/2024
+| Última atualização: 13/03/2025
 </td>
 </tr>
 <tr>
