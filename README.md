@@ -103,7 +103,7 @@
 <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=16Lucas&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Streak" width="420px" src="[https://streak-stats.demolab.com?user=16Lucas&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D](https://streak-stats.demolab.com?user=16Lucas&theme=dark&hide_border=falso&locale=pt_BR&short_numbers=falso&mode=weekly)](https://git.io/streak-stats))"/>
+<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=16Lucas&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D](https://streak-stats.demolab.com?user=16Lucas&theme=dark&hide_border=falso&locale=pt_BR&short_numbers=falso&mode=weekly)"/>
 </td>
 </tr>
 <tr>
