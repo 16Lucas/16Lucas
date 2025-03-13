@@ -1,3 +1,9 @@
+<div>
+<img align="center" alt="GIF" src="https://github.com/16Lucas/16Lucas/blob/main/img/hacker.gif" width="240" height="240px"/>
+</div>
+
+-----
+
 <div align="center">
 <table>
 <tr>
@@ -21,12 +27,6 @@
  <td align="center" colspan="11"></td>
 </tr> 
 </table>
-
------
-
-<div>
-<img align="center" alt="GIF" src="https://github.com/16Lucas/16Lucas/blob/main/img/hacker.gif" width="240" height="240px"/>
-</div>
 
 </div>
 <div align="justify">
