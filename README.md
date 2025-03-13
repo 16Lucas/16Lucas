@@ -82,10 +82,6 @@
 </table>
 <table>
 <tr>
- <td align="center">:octocat: <a href="https://www.githubwrapped.io/16Lucas" target="_blank">GitHub Wrapped</a></td>
- <td align="center">:watch: <a href="https://wakatime.com/@pintad0">WakaTime</a></td>
-</tr>
-<tr>
 <td>
 <img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/16Lucas/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
 </td>
