@@ -4,10 +4,6 @@
 <img alt="GIF" src="https://github.com/16Lucas/16Lucas/blob/main/img/hacker.gif" width="240" height="240px"/>
 </div>
 
-<div>
-<img align="center" alt="Header" src="https://github.com/16Lucas/16Lucas/blob/main/img/head4.png?raw=true"/>
-</div>       
-
 -----
 
 <div align="center">
