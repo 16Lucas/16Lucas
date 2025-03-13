@@ -4,9 +4,9 @@
 
 -----
 
-</td>
-<td><a href="mailto:" target="_blank"><img src="https://github.com/16Lucas/16Lucas/blob/main/img/hacker.png" width="50px" height="50px"/></a>
-</td>
+<div>
+<img align="right" alt="GIF" src="https://github.com/16Lucas/16Lucas/blob/main/img/hacker.gif" width="240" height="240px"/>
+</div>
 
 <div align="center">
 <table>
