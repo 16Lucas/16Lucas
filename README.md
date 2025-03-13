@@ -1,5 +1,5 @@
 <div>
-<img align="center" alt="Header" src="https://github.com/16Lucas/16Lucas/blob/main/img/img/head linkedln.png"/>
+<img align="center" alt="Header" src="https://github.com/16Lucas/16Lucas/blob/main/img/img/head.png"/>
 </div>
 
 -----
@@ -10,6 +10,9 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
+</td>
+<td><a href="mailto:" target="_blank"><img src="https://github.com/16Lucas/16Lucas/blob/main/img/hacker.png" width="50px" height="50px"/></a>
+</td>
 <td><a href="https://github.com/16Lucas/" target="_blank"><img src="https://github.com/16Lucas/16Lucas/blob/main/img/github5.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:lucasazevedo1620@gmail.com" target="_blank"><img src="https://github.com/16Lucas/16Lucas/blob/main/img/gmail3.png" width="50px" height="50px"/></a>
@@ -27,6 +30,8 @@
  <td align="center" colspan="11"></td>
 </tr> 
 </table>
+
+
 
 </div>
 <div align="justify">
