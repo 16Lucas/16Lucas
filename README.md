@@ -82,20 +82,6 @@
 </table>
 <table>
 <tr>
-<td>
-<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/16Lucas/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
-</td>
-<td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=16Lucas&theme=dark&layout=compact"/>
-</td>
-</tr>
-<tr>
- <td align="center"></td>
- <td align="center"></td>
-</tr> 
-</table>
-<table>
-<tr>
  <td align="center" colspan="3"></td>
 </tr> 
 <tr>
