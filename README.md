@@ -32,7 +32,7 @@
 
 </div>
 <div align="justify">
-<n><i><b>Olá</b> :wave:, sou o <code>Lucas Oliveira</code>, tenho 24 anos, m profissional apaixonado e dedicado, buscando constantemente oportunidades de crescimento e realização no campo tecnológico. Tenho uma mentalidade voltada para o trabalho em equipe, foco, produtividade e motivação. Minhas habilidades técnicas e minha capacidade de comunicação me permitem enfrentar desafios de forma eficaz e encontrar soluções inovadoras para problemas complexos. Sou comprometido com a excelência no atendimento ao cliente e em oferecer suporte técnico de qualidade, sempre buscando superar as expectativas e garantir a satisfação do cliente. Com uma sólida formação acadêmica e experiência prática, estou preparado para enfrentar os desafios do mundo profissional e contribuir positivamente para o sucesso da equipe e da organização.</i> :man_teacher:<br />
+<n><i><b>Olá</b> :wave:, sou o <code>Lucas Oliveira</code>, tenho 25 anos, um profissional apaixonado e dedicado, buscando constantemente oportunidades de crescimento e realização no campo tecnológico. Tenho uma mentalidade voltada para o trabalho em equipe, foco, produtividade e motivação. Minhas habilidades técnicas e minha capacidade de comunicação me permitem enfrentar desafios de forma eficaz e encontrar soluções inovadoras para problemas complexos. Sou comprometido com a excelência no atendimento ao cliente e em oferecer suporte técnico de qualidade, sempre buscando superar as expectativas e garantir a satisfação do cliente. Com uma sólida formação acadêmica e experiência prática, estou preparado para enfrentar os desafios do mundo profissional e contribuir positivamente para o sucesso da equipe e da organização.</i> :man_teacher:<br />
 </div>
 
 -----
@@ -47,8 +47,8 @@
 <div align="justify">
 <p> 
 ⁃ :mortar_board: &nbsp; Sou <code>estudante</code> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> do curso de Análise e Desenvolvimento de Sistemas.<br />
-⁃ :necktie: &nbsp; Na <a href="https://www.lyon.com.br/" target="_blank">Lyon Informática</a>, atuo como <code>Analista de Suporte técnico III</code>, <br />prestando atendimento e auxiliando os clientes da melhor forma.<br />
-⁃ :computer: &nbsp; Sou entusiasta em SQL e um aventureiro em PYTHON.:brain::snake: <br />
+⁃ :necktie: &nbsp; Na <a href="https://helenacrm.com.br/" target="_blank">Helena CRM</a>, atuo como <code>Analista de Suporte técnico N1</code>, <br />prestando atendimento e auxiliando os clientes da melhor forma.<br />
+⁃ :computer: &nbsp; Sou entusiasta em SQL e um aventureiro em python, automação, integrações com IA e chatbots inteligentes.:brain::snake: <br />
 ⁃ :soccer: &nbsp; Sou Cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">Cruzeiro Esporte Clube</a>. :fox_face: :blue_heart: <br />
 ⁃ :basketball: &nbsp; Meus hobbies são jogos mobile's, <a href="https://ge.globo.com/futebol/times/cruzeiro/" target="_blank">noticias esportivas</a>, livros e academia.<br />
 ⁃ :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
